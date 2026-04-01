@@ -4,7 +4,7 @@ name: First Workflow Demo
 # Run this Code when pushed to Main Branch
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs: 
   say-hello:
